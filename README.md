@@ -1,4 +1,4 @@
-# JavaQuestionaire
+# Java Questionaire
 
 Q1) Create a Pangram checker in java (A pangram is a sentence containing every letter in the English Alphabet (a-z).)
 Pangram example: The quick brown fox jumps over the lazy dog
