@@ -22,7 +22,7 @@ b)	One that returns true if a number is prime and false if it’s not.
 c)	One that returns true if the parameter is a palindrome and false if it’s not.
 
 Q4) Is the below statement correct? 
-ArrayList<int> intArrayList = new ArrayList<int>();
+ArrayList <int> intArrayList = new ArrayList <int> ();
 Write the correct way to create an ArrayList of primitive types (int and double).
 
 Q5) What is the difference between Polymorphism, Overloading, and Overriding?
